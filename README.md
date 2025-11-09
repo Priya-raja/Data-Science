@@ -1,2 +1,3 @@
 # Data-Science
-All machine learning codes using python
+ML and AI notebook.
+Includes basic RAG
